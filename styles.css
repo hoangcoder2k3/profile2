@@ -17,7 +17,7 @@ html {
     /* display: flex; */
     /* justify-content: center; */
     /* align-items: center; */
-    background-image: url(/img/backgr.jpg);
+    background-image: url(img/backgr.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -279,7 +279,7 @@ img {
     background: linear-gradient(296deg, #000046, #1cb5e0);
     background-size: 400% 800%;
 
-    background-image: url(./img/backgr.jpg);
+    background-image: url(img/backgr.jpg);
 
     animation: color 10s ease infinite;
 }
